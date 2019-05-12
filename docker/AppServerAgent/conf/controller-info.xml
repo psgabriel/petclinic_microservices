@@ -18,7 +18,7 @@
     You can override this configuration with an environment variable 'APPDYNAMICS_CONTROLLER_HOST_NAME' or
     the system property '-Dappdynamics.controller.hostName'  -->
 
-    <controller-host>senator2019040722230512.saas.appdynamics.com</controller-host>
+    <controller-host>lovelace2019051012264010.saas.appdynamics.com</controller-host>
 
     <!--  The http(s) port of the AppDynamics Controller. If 'controller-ssl-enabled' below is set to true, you must
     specify the HTTPS port of the Controller, otherwise specify the HTTP port. The Controller listens on port 8090 by default.
@@ -132,7 +132,7 @@
     You can override this configuration with an environment variable 'APPDYNAMICS_AGENT_ACCOUNT_NAME' or
     the system property '-Dappdynamics.agent.accountName'  -->
 
-    <account-name>senator2019040722230512</account-name>
+    <account-name>lovelace2019051012264010</account-name>
 
     <!--  The account access key.
     You can override this configuration with an environment variable 'APPDYNAMICS_AGENT_ACCOUNT_ACCESS_KEY' or
